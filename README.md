@@ -4,7 +4,7 @@ With my knowledge of python, I decided to start learning one of python's library
 
 ## Lessons learnt
 Included in this repo are the things I learnt which includes: 
--  creating a one dimensional array.
+- Creating a one dimensional array.
 - Creating a multidimensional array.
 - Looked at various methods like: size, shape, reshape, arange, linspace, eye, zeros, ones etc.
 - Generating random values. 

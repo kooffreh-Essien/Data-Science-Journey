@@ -15,7 +15,7 @@ Included in this repo are the things I learnt which includes:
 
 ![numpy1](https://user-images.githubusercontent.com/109315395/187454364-b2aa49d5-235d-4a2e-bb4e-dc90b72ba017.PNG)
 
-Snippet of jupyter notebook
+Snippet of Jupyter Notebook
 
 ![numpy2](https://user-images.githubusercontent.com/109315395/187454204-7507e4c7-86dc-4fe5-aa5c-0189c3f03fed.PNG)
 
